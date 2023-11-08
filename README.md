@@ -21,6 +21,18 @@
 **Database**
 
 ![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/950fbf47-55d4-4560-a1ef-d669eb090eb5)
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/1f176239-247d-4f12-abfd-4699519e56f3)
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/dbbaa30b-f7e5-4c67-a74c-ec68ec51977d)
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/ff90406c-47d7-4fb3-ae92-495aff801598)
+
+
+**Email Handling**
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/433071af-a574-49fd-ab56-82815bac7858)
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/afd5b106-f4a8-46cf-bd08-97c8a809b125)
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/d898d2ba-77e3-48fd-836a-eed40b9a091c)
+
+
+
 
 
 
