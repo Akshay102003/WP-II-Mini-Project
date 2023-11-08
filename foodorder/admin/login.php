@@ -40,7 +40,7 @@
             </form>
           
 
-            <p class="text-center">Created By - <a href="https://www.linkedin.com/in/viraj-patil-280761170/">Viraj Patil</a></p>
+           
         </div>
 
     </body>
