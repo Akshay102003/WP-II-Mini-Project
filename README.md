@@ -18,5 +18,9 @@
 ![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/f70f4468-0d0f-44d4-bb99-1ee12d8f880b)
 ![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/47187867-aabc-4d7f-b0d2-92026652db5a)
 
+**Database**
+
+![image](https://github.com/Akshay102003/WP-II-Mini-Project/assets/88509913/950fbf47-55d4-4560-a1ef-d669eb090eb5)
+
 
 
